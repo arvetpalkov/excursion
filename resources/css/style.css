@@ -29,6 +29,10 @@ main p {
   color: gray;
 }
 
+main img {
+  max-width: 90%;
+}
+
 footer {
   text-align: right;
   color: gray;
